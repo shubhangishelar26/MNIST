@@ -18,7 +18,8 @@ Take the standard MNIST handwritten digit dataset, and as usual, split it into t
 
 
 
-================================Questions==============================================
+================================Questions==================================
+
 
 1.How accurate is this method?
 ---->98% on an average
@@ -28,6 +29,7 @@ Take the standard MNIST handwritten digit dataset, and as usual, split it into t
 ----> Default Euclidean distance metric.
 
 3.How fast/slow is your implementation? Can you analyze the bottlenecks and speed things up?
+
 ---->mplementation speed depends on dataset size and k value. Bottlenecks may arise from high dimensionality. Efficient algorithms and data structures in scikit-learn help mitigate this.
 
 4.Any ideas on improving accuracy?
