@@ -16,6 +16,10 @@ Take the standard MNIST handwritten digit dataset, and as usual, split it into t
 
 
 
+
+
+================================Questions==============================================
+
 1.How accurate is this method?
 ---->98% on an average
 
